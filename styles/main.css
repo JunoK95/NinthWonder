@@ -27,10 +27,6 @@
   -ms-transform: translate(-50%, -50%)
 }
 
-#overview_image {
-
-}
-
 #overview_image:hover #overview_image {
     opacity: 0.5;
 }
